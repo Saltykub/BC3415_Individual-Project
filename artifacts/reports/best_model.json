@@ -1,0 +1,5 @@
+{
+  "best_model_key": "logreg",
+  "macro_f1": 0.6496,
+  "test_rows": 3396
+}

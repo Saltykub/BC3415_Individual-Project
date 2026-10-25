@@ -1,0 +1,504 @@
+{
+  "logreg": {
+    "display": "TF-IDF + Logistic Regression",
+    "classes": {
+      "negative": [
+        {
+          "term": "disappointed",
+          "weight": 4.2407
+        },
+        {
+          "term": "not",
+          "weight": 4.1011
+        },
+        {
+          "term": "poor",
+          "weight": 3.6833
+        },
+        {
+          "term": "huge",
+          "weight": 3.5306
+        },
+        {
+          "term": "cheap",
+          "weight": 3.4522
+        },
+        {
+          "term": "horrible",
+          "weight": 3.386
+        },
+        {
+          "term": "awful",
+          "weight": 3.3841
+        },
+        {
+          "term": "unflattering",
+          "weight": 3.2657
+        },
+        {
+          "term": "disappointing",
+          "weight": 3.0755
+        },
+        {
+          "term": "terrible",
+          "weight": 3.0484
+        },
+        {
+          "term": "looked",
+          "weight": 2.9219
+        },
+        {
+          "term": "back",
+          "weight": 2.6673
+        },
+        {
+          "term": "was",
+          "weight": 2.5846
+        },
+        {
+          "term": "going back",
+          "weight": 2.5482
+        },
+        {
+          "term": "even",
+          "weight": 2.4191
+        },
+        {
+          "term": "to love",
+          "weight": 2.3829
+        },
+        {
+          "term": "not work",
+          "weight": 2.3346
+        },
+        {
+          "term": "very disappointed",
+          "weight": 2.2231
+        },
+        {
+          "term": "wanted to",
+          "weight": 2.2003
+        },
+        {
+          "term": "shapeless",
+          "weight": 2.1589
+        }
+      ],
+      "neutral": [
+        {
+          "term": "however",
+          "weight": 3.8379
+        },
+        {
+          "term": "to love",
+          "weight": 2.7738
+        },
+        {
+          "term": "not for",
+          "weight": 2.6646
+        },
+        {
+          "term": "ok",
+          "weight": 2.5704
+        },
+        {
+          "term": "however the",
+          "weight": 2.4226
+        },
+        {
+          "term": "returning it",
+          "weight": 2.4138
+        },
+        {
+          "term": "just ok",
+          "weight": 2.3288
+        },
+        {
+          "term": "much",
+          "weight": 2.2666
+        },
+        {
+          "term": "but",
+          "weight": 2.2389
+        },
+        {
+          "term": "if",
+          "weight": 2.029
+        },
+        {
+          "term": "is cute",
+          "weight": 2.0238
+        },
+        {
+          "term": "cute but",
+          "weight": 2.0154
+        },
+        {
+          "term": "it just",
+          "weight": 2.0128
+        },
+        {
+          "term": "not flattering",
+          "weight": 1.9752
+        },
+        {
+          "term": "color and",
+          "weight": 1.9743
+        },
+        {
+          "term": "meh",
+          "weight": 1.9327
+        },
+        {
+          "term": "arms",
+          "weight": 1.8649
+        },
+        {
+          "term": "while the",
+          "weight": 1.8241
+        },
+        {
+          "term": "unfortunately",
+          "weight": 1.7936
+        },
+        {
+          "term": "but the",
+          "weight": 1.7711
+        }
+      ],
+      "positive": [
+        {
+          "term": "love",
+          "weight": 5.5341
+        },
+        {
+          "term": "great",
+          "weight": 5.1293
+        },
+        {
+          "term": "perfect",
+          "weight": 5.01
+        },
+        {
+          "term": "comfortable",
+          "weight": 4.3449
+        },
+        {
+          "term": "little",
+          "weight": 3.8593
+        },
+        {
+          "term": "not too",
+          "weight": 3.5625
+        },
+        {
+          "term": "love this",
+          "weight": 3.3953
+        },
+        {
+          "term": "beautiful",
+          "weight": 3.3165
+        },
+        {
+          "term": "soft",
+          "weight": 2.9741
+        },
+        {
+          "term": "comfy",
+          "weight": 2.9676
+        },
+        {
+          "term": "flattering",
+          "weight": 2.9441
+        },
+        {
+          "term": "unique",
+          "weight": 2.8824
+        },
+        {
+          "term": "perfectly",
+          "weight": 2.8604
+        },
+        {
+          "term": "fun",
+          "weight": 2.7602
+        },
+        {
+          "term": "amazing",
+          "weight": 2.7111
+        },
+        {
+          "term": "lovely",
+          "weight": 2.6692
+        },
+        {
+          "term": "fits",
+          "weight": 2.5999
+        },
+        {
+          "term": "compliments",
+          "weight": 2.4503
+        },
+        {
+          "term": "bit",
+          "weight": 2.3888
+        },
+        {
+          "term": "love it",
+          "weight": 2.3816
+        }
+      ]
+    }
+  },
+  "nb": {
+    "display": "TF-IDF + Complement Naive Bayes",
+    "classes": {
+      "negative": [
+        {
+          "term": "looks nothing",
+          "weight": 2.2991
+        },
+        {
+          "term": "horrible fit",
+          "weight": 2.1903
+        },
+        {
+          "term": "your money",
+          "weight": 2.1819
+        },
+        {
+          "term": "hideous",
+          "weight": 2.1564
+        },
+        {
+          "term": "back asap",
+          "weight": 2.0941
+        },
+        {
+          "term": "fits weird",
+          "weight": 2.0417
+        },
+        {
+          "term": "super itchy",
+          "weight": 2.0322
+        },
+        {
+          "term": "very weird",
+          "weight": 2.0267
+        },
+        {
+          "term": "apart after",
+          "weight": 2.0179
+        },
+        {
+          "term": "expected much",
+          "weight": 2.0098
+        },
+        {
+          "term": "pounds heavier",
+          "weight": 1.9923
+        },
+        {
+          "term": "look anything",
+          "weight": 1.9714
+        },
+        {
+          "term": "terrible fit",
+          "weight": 1.9692
+        },
+        {
+          "term": "save your",
+          "weight": 1.9671
+        },
+        {
+          "term": "yuck",
+          "weight": 1.9588
+        },
+        {
+          "term": "money even",
+          "weight": 1.9449
+        },
+        {
+          "term": "awful fabric",
+          "weight": 1.9063
+        },
+        {
+          "term": "shrunk and",
+          "weight": 1.9
+        },
+        {
+          "term": "quality expected",
+          "weight": 1.8983
+        },
+        {
+          "term": "is horrible",
+          "weight": 1.8972
+        }
+      ],
+      "neutral": [
+        {
+          "term": "but scratchy",
+          "weight": 1.9466
+        },
+        {
+          "term": "strange on",
+          "weight": 1.9073
+        },
+        {
+          "term": "on slender",
+          "weight": 1.8247
+        },
+        {
+          "term": "me fit",
+          "weight": 1.8023
+        },
+        {
+          "term": "have mixed",
+          "weight": 1.7676
+        },
+        {
+          "term": "only recommend",
+          "weight": 1.7584
+        },
+        {
+          "term": "otherwise cute",
+          "weight": 1.7572
+        },
+        {
+          "term": "are standing",
+          "weight": 1.7562
+        },
+        {
+          "term": "scratchy cute",
+          "weight": 1.7346
+        },
+        {
+          "term": "are misleading",
+          "weight": 1.7268
+        },
+        {
+          "term": "was skin",
+          "weight": 1.7175
+        },
+        {
+          "term": "nice maternity",
+          "weight": 1.7105
+        },
+        {
+          "term": "too floppy",
+          "weight": 1.7055
+        },
+        {
+          "term": "tall enough",
+          "weight": 1.6982
+        },
+        {
+          "term": "cohesive",
+          "weight": 1.695
+        },
+        {
+          "term": "stretch or",
+          "weight": 1.6921
+        },
+        {
+          "term": "too shimmery",
+          "weight": 1.6768
+        },
+        {
+          "term": "way wanted",
+          "weight": 1.6764
+        },
+        {
+          "term": "tight did",
+          "weight": 1.6725
+        },
+        {
+          "term": "price just",
+          "weight": 1.6649
+        }
+      ],
+      "positive": [
+        {
+          "term": "more colors",
+          "weight": 2.7435
+        },
+        {
+          "term": "highly recommend",
+          "weight": 2.4565
+        },
+        {
+          "term": "versatile and",
+          "weight": 2.2954
+        },
+        {
+          "term": "perfectly it",
+          "weight": 2.2671
+        },
+        {
+          "term": "paired it",
+          "weight": 2.2517
+        },
+        {
+          "term": "pleased with",
+          "weight": 2.2475
+        },
+        {
+          "term": "great purchase",
+          "weight": 2.2379
+        },
+        {
+          "term": "very pleased",
+          "weight": 2.2174
+        },
+        {
+          "term": "or with",
+          "weight": 2.2079
+        },
+        {
+          "term": "dressed down",
+          "weight": 2.0925
+        },
+        {
+          "term": "and stylish",
+          "weight": 2.0851
+        },
+        {
+          "term": "worth every",
+          "weight": 2.0811
+        },
+        {
+          "term": "holds",
+          "weight": 2.0792
+        },
+        {
+          "term": "this fall",
+          "weight": 2.0718
+        },
+        {
+          "term": "perfect to",
+          "weight": 2.0626
+        },
+        {
+          "term": "penny",
+          "weight": 2.055
+        },
+        {
+          "term": "and elegant",
+          "weight": 2.0397
+        },
+        {
+          "term": "many compliments",
+          "weight": 2.0394
+        },
+        {
+          "term": "or dress",
+          "weight": 2.0377
+        },
+        {
+          "term": "well worth",
+          "weight": 2.0304
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+DistilBERT (fine-tuned)
+=======================
+
+              precision    recall  f1-score   support
+
+    negative     0.4516    0.7331    0.5589       356
+     neutral     0.2922    0.4090    0.3409       423
+    positive     0.9668    0.8223    0.8887      2617
+
+    accuracy                         0.7615      3396
+   macro avg     0.5702    0.6548    0.5962      3396
+weighted avg     0.8287    0.7615    0.7859      3396

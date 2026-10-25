@@ -1,0 +1,15 @@
+Preprocessing summary
+---------------------
+  raw rows .....................  23,486
+  - missing rating .............       0
+  - rating outside mapping .....       0
+  - empty after cleaning .......     844
+  - shorter than 3 tokens ......       3
+  - exact duplicate text .......       5
+  = rows kept ..................  22,634   (852 removed, 3.6%)
+
+Class balance
+-------------
+  negative    2,370   10.5%  #####
+  neutral     2,823   12.5%  ######
+  positive   17,441   77.1%  #######################################
